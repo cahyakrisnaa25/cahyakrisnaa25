@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/cahyakrisnam/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://cahyakrisna.dev/" target="_blank">
+    <a href="https://cahyakrisna.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="website Badge"/>
     </a>
 </p>
