@@ -1,4 +1,4 @@
-# ⚡ Welcome to my Digital Playground! 
+# Welcome to my Digital Playground! 
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Software+Engineer;Reverse+Engineer;Game+Modding+Enthusiast;C%2B%2B+%2F+C%23+Developer" alt="Typing SVG" />
