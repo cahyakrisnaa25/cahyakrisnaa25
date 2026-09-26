@@ -39,7 +39,7 @@ I'm a **Computer Science Graduate (S.Kom)** based in **Denpasar, Bali**. I speci
   <a href="https://www.instagram.com/cahyakrisnam/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://cahyakrisna.vercel.app/" target="_blank">
+  <a href="https://cahyakrisna.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </p>
