@@ -6,16 +6,16 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I'm a **Computer Science Graduate (S.Kom)** based in **Denpasar, Bali**. I specialize in low-level programming, memory manipulation, and creating high-performance tools with aesthetic UI.
 
-*   🔭 **Current Project:** Advanced memory hacking & HWID protection systems.
-*   🎨 **Aesthetic:** Big fan of dark themes, ImGui animations, and custom shaders.
-*   🛠️ **Core Tech:** C++, C#, Python, and PowerShell.
+*   **Current Project:** Advanced memory hacking & HWID protection systems.
+*   **Aesthetic:** Big fan of dark themes, ImGui animations, and custom shaders.
+*   **Core Tech:** C++, C#, Python, and PowerShell.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,powershell,visualstudio,vscode,git,github,mysql,firebase,vercel" />
@@ -23,7 +23,7 @@ I'm a **Computer Science Graduate (S.Kom)** based in **Denpasar, Bali**. I speci
 
 ---
 
-### 📊 GitHub Stats & Activity
+### GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cahyakrisnaa25&theme=tokyonight&hide_border=true" />
@@ -31,7 +31,7 @@ I'm a **Computer Science Graduate (S.Kom)** based in **Denpasar, Bali**. I speci
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://www.facebook.com/point.cahya/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
