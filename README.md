@@ -88,8 +88,8 @@ namespace cahya::engine {
 
 <div align="center">
   <a href="https://cahyakrisna.com" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-cahyakrisna.com-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=00F7FF&labelColor=0D1117" alt="Website" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/cahyakrisnam/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-@cahyakrisnam-A855F7?style=for-the-badge&logo=instagram&logoColor=A855F7&labelColor=0D1117" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/point.cahya/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-point.cahya-3B82F6?style=for-the-badge&logo=facebook&logoColor=3B82F6&labelColor=0D1117" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/cahyakrisn/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-@cahyakrisnam-A855F7?style=for-the-badge&logo=instagram&logoColor=A855F7&labelColor=0D1117" alt="Instagram" /></a>&nbsp;&nbsp;
+</a>
 </div>
 
 <br/>
