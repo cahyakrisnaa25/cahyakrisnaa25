@@ -1,91 +1,100 @@
+<!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f17,100:1a1b27&height=140&section=header&text=0xCAHYA&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=40&desc=Systems%20%E2%80%A2%20Reverse%20Engineering%20%E2%80%A2%20Tooling&descAlignY=68&descSize=16&descColor=565f89" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=200&section=header&text=CAHYA%20KRISNA&fontSize=55&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=%5B%20S.Kom%20%E2%80%A2%20Reverse%20Engineer%20%E2%80%A2%20Low-Level%20Developer%20%5D&descAlignY=58&descSize=16&descColor=E0E8FF" width="100%" />
 </div>
 
+<!-- ANIMATED TERMINAL TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=B.Sc.+in+Computer+Science+(S.Kom)+%E2%80%94+Denpasar%2C+Bali;Low-Level+Programming+%26+Memory+Manipulation;Game+Modding+%26+HWID+Protection+Systems;Custom+Dear+ImGui+Interfaces+%26+Shaders" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+System+Profile...+OK;%3E+Location%3A+Denpasar%2C+Bali+%5BID%5D;%3E+Focus%3A+Memory+Manipulation+%26+HWID+Protection;%3E+UI+Engine%3A+Dear+ImGui+Animations+%26+Custom+Shaders;%3E+Core+Stack%3A+C%2B%2B+%7C+C%23+%7C+x64+ASM+%7C+Python+%7C+PowerShell" alt="Typing SVG" />
 </div>
 
-<br/>
+<!-- ANIMATED NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ANIMATED SECTION 1: SYSTEM PROFILE -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=1000&color=A855F7&vCenter=true&width=450&lines=%3E+0x01_SYSTEM_ARCHITECTURE.hpp;%3E+executing+whoami.exe..." alt="Section 1" />
+</p>
 
 ```cpp
-//-----------------------------------------------------------------------------
-// [SECTION] SYSTEM_PROFILE.HPP
-//-----------------------------------------------------------------------------
 #pragma once
+#include <windows.h>
 #include <cstdint>
 
-namespace cahya {
-    struct EngineerProfile {
-        const char* alias      = "cahyakrisnaa25";
-        const char* degree     = "S.Kom (Computer Science)";
-        const char* location   = "Denpasar, Bali, ID";
-        
-        struct Specialties {
-            const char* core[] = { "C++", "C#", "x86/x64 ASM", "Python", "PowerShell" };
-            const char* work[] = { "Memory Hacking", "Binary Dissection", "HWID Locks" };
-            const char* gui[]  = { "Dear ImGui", "Custom Animations", "HLSL/GLSL Shaders" };
-        };
+namespace cahya::engine {
+    class Developer {
+    public:
+        static constexpr const char* NAME      = "Cahya Krisna, S.Kom";
+        static constexpr const char* BASE      = "Denpasar, Bali";
+        static constexpr const char* TARGET    = "Ring 3 / Ring 0 Memory & Native Binaries";
+
+        static void ExecuteRoutine() {
+            InjectCustomShaders("DirectX11_ImGui_Hook.dll");
+            InitializeHWIDLock(0xDEADC0DE);
+            BypassMemoryIntegrityCheck();
+        }
     };
 }
 ```
 
-<br/>
+> **Computer Science Graduate (S.Kom)** specializing in low-level systems, reverse engineering, and game modding. Passionate about dissecting compiled binaries, manipulating runtime memory, and crafting dark-themed, hardware-accelerated UIs with **Dear ImGui** and custom shaders.
 
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3><code>&gt; whoami</code></h3>
-      <p>
-        CS graduate working close to the metal. I spend most of my time dissecting binaries, manipulating process memory, and engineering lightweight native tools.
-      </p>
-      <p>
-        A huge advocate for dark aesthetics—when I'm not staring at memory addresses or pointers, I build fluid, custom-rendered interfaces in <b>Dear ImGui</b> backed by custom shaders.
-      </p>
-      <ul>
-        <li><b>Current Focus:</b> Advanced memory manipulation & HWID protection architectures.</li>
-        <li><b>Environment:</b> Visual Studio, VS Code, x64dbg, IDA / Ghidra, Git.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h3><code>&gt; tech_arsenal</code></h3>
-      <p align="left">
-        <b>Languages & Scripting</b><br/>
-        <img src="https://skillicons.dev/icons?i=cpp,cs,python,powershell&theme=dark" />
-      </p>
-      <p align="left">
-        <b>Tools, DB & Deployment</b><br/>
-        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,mysql,firebase,vercel&theme=dark" />
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- ANIMATED NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-### `> telemetry_&_activity`
-
+<!-- ANIMATED SECTION 2: TECH ARSENAL -->
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cahyakrisnaa25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=16161e&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=cahyakrisnaa25&theme=tokyonight&hide_border=true&background=16161e&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%3E+0x02_LOADED_MODULES_%26_ARSENAL;%3E+Scanning+Installed+Packages..." alt="Section 2" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=cahyakrisnaa25&bg_color=16161e&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-### `> network_endpoints`
-
-<div align="center">
-  <a href="https://cahyakrisna.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-cahyakrisna.com-16161e?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7&labelColor=0f0f17" alt="Website" /></a>&nbsp;
-  <a href="https://www.instagram.com/cahyakrisnam/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-@cahyakrisnam-16161e?style=for-the-badge&logo=instagram&logoColor=bb9af7&labelColor=0f0f17" alt="Instagram" /></a>&nbsp;
-  <a href="https://www.facebook.com/point.cahya/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-point.cahya-16161e?style=for-the-badge&logo=facebook&logoColor=7dcfff&labelColor=0f0f17" alt="Facebook" /></a>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,powershell,visualstudio,vscode,git,github,mysql,firebase,vercel&theme=dark&perline=11" alt="Tech Stack" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f17,100:1a1b27&height=85&section=footer" width="100%" />
+  <img src="https://img.shields.io/badge/Dear_ImGui-Custom_UI-00F7FF?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-x64dbg_%2F_IDA-A855F7?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Protection-HWID_Auth_System-3B82F6?style=for-the-badge&logo=shield&logoColor=white&labelColor=111827" />
+</div>
+
+<!-- ANIMATED NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ANIMATED SECTION 3: TELEMETRY & STATS -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=%3E+0x03_RUNTIME_TELEMETRY;%3E+Fetching+Live+GitHub+Metrics..." alt="Section 3" />
+</div>
+
+<!-- ANIMATED PULSING STREAK & STATS -->
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=cahyakrisnaa25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=A855F7&text_color=E0E8FF&ring_color=00F7FF" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=cahyakrisnaa25&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=A855F7&currStreakLabel=00F7FF&sideNums=E0E8FF&currStreakNum=00F7FF" alt="GitHub Streak" />
+</div>
+
+<!-- ANIMATED MATRIX SNAKE EAT -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Snake Animation" />
+</div>
+
+<!-- ANIMATED NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ANIMATED SECTION 4: NETWORK ENDPOINTS -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=%3E+0x04_ESTABLISH_CONNECTION;%3E+Pinging+External+Endpoints..." alt="Section 4" />
+</div>
+
+<div align="center">
+  <a href="https://cahyakrisna.com" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-cahyakrisna.com-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=00F7FF&labelColor=0D1117" alt="Website" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/cahyakrisnam/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-@cahyakrisnam-A855F7?style=for-the-badge&logo=instagram&logoColor=A855F7&labelColor=0D1117" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/point.cahya/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-point.cahya-3B82F6?style=for-the-badge&logo=facebook&logoColor=3B82F6&labelColor=0D1117" alt="Facebook" /></a>
+</div>
+
+<br/>
+
+<!-- ANIMATED WAVING FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=120&section=footer" width="100%" />
 </div>
