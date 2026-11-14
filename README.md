@@ -19,9 +19,6 @@
 <br/>
 
 ```cpp
-// ============================================================================
-// [COSMOS_ENGINE] :: SENIOR ARCHITECTURE & INTERNALS PROFILE
-// ============================================================================
 #pragma once
 #include <cstdint>
 #include <memory>
@@ -41,7 +38,7 @@ namespace cosmos::architecture {
         };
     };
 
-} // namespace cosmos::architecture
+}
 ```
 
 <div align="center">
