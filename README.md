@@ -16,11 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2200&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=%E2%97%88+01+%2F%2F+CORE_SYSTEM_SPECIFICATIONS;%E2%97%88+TELEMETRY_STATUS%3A+ORBITAL_ONLINE" alt="Section 1" />
 </div>
 
-<!-- ANIMATED GALAXY STARFIELD BANNER -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzh6N2h6dmt5Y2x5bm92Z3B4eHpqZ3J6NnJ4bmZ6bzh6N2h6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3qYN8S0j3bpK/giphy.gif" width="100%" height="120" style="object-fit: cover; border-radius: 10px;" alt="Starfield Animation" />
-</div>
-
 <br/>
 
 ```cpp
