@@ -37,7 +37,7 @@ namespace cosmos::architecture {
     public:
         static constexpr const char* IDENTITY    = "Cahya Krisna, S.Kom";
         static constexpr const char* DESIGNATION = "Senior Systems & Reverse Engineer";
-        static constexpr const char* COORDINATES = "Denpasar, Bali [8.6705° S, 115.2126° E]";
+        static constexpr const char* COORDINATES = "Denpasar, Bali";
 
         struct Capabilities {
             static constexpr const char* SYSTEMS[]  = { "Modern C++", "C# (.NET Native)", "x86/x64 ASM", "Python", "PowerShell" };
