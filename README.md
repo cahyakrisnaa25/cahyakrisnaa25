@@ -79,7 +79,6 @@ namespace cosmos::architecture {
 </div>
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=cahyakrisnaa25&show_icons=true&hide_border=true&bg_color=090D16&title_color=38BDF8&icon_color=C084FC&text_color=E2E8F0&ring_color=38BDF8" />
   <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=cahyakrisnaa25&hide_border=true&background=090D16&ring=38BDF8&fire=C084FC&currStreakLabel=38BDF8&sideNums=E2E8F0&currStreakNum=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
 </div>
 
